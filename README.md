@@ -1,6 +1,4 @@
-# GaragePi - The Raspberry Pi Garage Door Opener
-
-## Introduction
+## GaragePi - The Raspberry Pi Garage Door Opener
 
 When I was little, I used to push the garage door button from inside the garage and
 then run out the garage while it's closing... carefully jumping over the sensor so
