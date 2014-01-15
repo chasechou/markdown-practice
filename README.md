@@ -1,4 +1,4 @@
-# Raspberry Pi Garage Door Opener with GaragePi
+# Raspberry Pi Garage Door Opener
 
 When I was little, I used to push the garage door button from inside the garage and
 then run out the garage while it's closing... carefully jumping over the sensor so
@@ -19,9 +19,26 @@ remote allows me to open and close my garage door with just a browser on my smar
 
 Below I'll go through the steps and the issues I ran into while working on this project.
 
-## Introduction
+## Step 1 - Parts
 
-body 2
+Below is a list of the parts I gathered together to get started. Prices will most likely
+not be same.
+
+* Raspberry Pi (model B) + Case + Wireless Wifi Adapter - $50
+* 8GB or greater SD card - $6
+* a power supply with at least 1A and 5V output and a micro-usb connector. The power
+supply that comes with most smartphones nowadays should work just fine. Just check the
+label for the power ratings. The Raspberry Pi is documented to have a maximum power draw
+of 1A so it's better to have a power supply that is greater than 1A just to be safe else
+you might run into system stability issues causing reboots/freezes.
+* a 2-channel relay - $10
+* female-to-female jumper wires - $8
+* ethernet cable
+* a LED to test out the GPIO pins
+* solder gun + solder (if hooking it up to a garage door remote)
+* usb keyboard and mouse, HDMI monitor and HDMI cable. These are only necessary for the initial setup until you have the Pi networked after which you can go headless and SSH in from another computer.
+Total cost for me: $74 since I had a few of the needed parts already.
+
 
 ### List
 
