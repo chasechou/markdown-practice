@@ -1,4 +1,6 @@
-# Raspberry Pi Garage Door Opener
+# GaragePi - The Raspberry Pi Garage Door Opener
+
+## Introduction
 
 When I was little, I used to push the garage door button from inside the garage and
 then run out the garage while it's closing... carefully jumping over the sensor so
@@ -230,4 +232,4 @@ for [Android](http://mobile-pixels.com/pin-webapp-website-android-homescreen/) /
 ![Picture](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/2505/Step_9_-_save.jpg)
 
 
-Have fun and hope it works for you!
+## Have fun and hope it works for you!
