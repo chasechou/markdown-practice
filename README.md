@@ -24,20 +24,15 @@ Below I'll go through the steps and the issues I ran into while working on this 
 Below is a list of the parts I gathered together to get started. Prices will most likely
 not be same.
 
-* Raspberry Pi (model B) + Case + Wireless Wifi Adapter - $50
-* 8GB or greater SD card - $6
-* a power supply with at least 1A and 5V output and a micro-usb connector. The power
-supply that comes with most smartphones nowadays should work just fine. Just check the
-label for the power ratings. The Raspberry Pi is documented to have a maximum power draw
-of 1A so it's better to have a power supply that is greater than 1A just to be safe else
-you might run into system stability issues causing reboots/freezes.
-* a 2-channel relay - $10
-* female-to-female jumper wires - $8
+* [Raspberry Pi (model B) + Case + Wireless Wifi Adapter](http://www.amazon.com/gp/product/B00D2CN730/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00D2CN730&linkCode=as2&tag=codeblog-20) - $50
+* [8GB or greater SD card](http://www.amazon.com/gp/product/B00200K1SY/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00200K1SY&linkCode=as2&tag=codeblog-20) - $6
+* [a power supply](http://www.amazon.com/gp/product/B00DZLSEVI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00DZLSEVI&linkCode=as2&tag=codeblog-20) with at least **1A** and **5V** output and a micro-usb connector. The power supply that comes with most smartphones nowadays should work just fine. Just check the label for the power ratings. The Raspberry Pi is documented to have a maximum power draw of 1A so it's better to have a power supply that is greater than 1A just to be safe else you might run into system stability issues causing reboots/freezes.
+* [a 2-channel relay](http://www.amazon.com/gp/product/B0057OC6D8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0057OC6D8&linkCode=as2&tag=codeblog-20) - $10
+* [female-to-female jumper wires](http://www.amazon.com/gp/product/B00BQA5BWU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00BQA5BWU&linkCode=as2&tag=codeblog-20) - $8
 * ethernet cable
 * a LED to test out the GPIO pins
 * solder gun + solder (if hooking it up to a garage door remote)
 * usb keyboard and mouse, HDMI monitor and HDMI cable. These are only necessary for the initial setup until you have the Pi networked after which you can go headless and SSH in from another computer.
-Total cost for me: $74 since I had a few of the needed parts already.
 
 
 ### List
